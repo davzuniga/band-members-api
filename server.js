@@ -37,7 +37,7 @@ app.get('/api/:bandName', (req, res) => {
         res.json(bands[nameOfBand])
     }
     else{
-        res.json(bands['the beatles'])
+        res.json(bands['unknown'])
     }
 })
 
