@@ -11,18 +11,22 @@ const bands = {
     'the beatles': {
         'leader': 'John Lennon, Paul McCartney',
         'otherMembers' : 'George Harrison, Ringo Starr',
+        'image': 'https://upload.wikimedia.org/wikipedia/commons/d/df/The_Fabs.JPG',
     },
     'oasis': {
         'leader': 'Noel Gallagher',
-        'otherMembers': 'Liam Gallagherz, Gem Archer, Andy Bell'
+        'otherMembers': 'Liam Gallagherz, Gem Archer, Andy Bell',
+        'image' : 'https://cdn.oasisinet.com/wp-content/uploads/2014/02/BW-group-shot.jpg',
     },
     'radiohead': {
         'leader': 'Thom Yorke',
-        'otherMembers': "Johnny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway"
+        'otherMembers': "Johnny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway",
+        'image' : 'https://www.rockhall.com/sites/default/files/styles/c03g_desktop_1920_870/public/2019-11/landscape.png?h=d5e74559&itok=5-3vJ5Hc',
     },
     'unknown':{
         'leader': 'unknown',
-        'otherMembers': "Unknown... they might not be famous yet. Good discovery!"
+        'otherMembers': "Unknown... they might not be famous yet. Good discovery!",
+        'image' : '',
     }
         
 }
