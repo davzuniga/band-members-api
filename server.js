@@ -30,7 +30,7 @@ const bands = {
         'nameOfBand' : "I've never heard of that band...",
         'leader': 'unknown',
         'otherMembers': "Unknown... they might not be famous yet. Good discovery!",
-        'image' : '',
+        'image' : 'https://f4.bcbits.com/img/a3857959739_10.jpg',
     }
         
 }
